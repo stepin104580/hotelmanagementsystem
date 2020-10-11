@@ -35,8 +35,8 @@ int main() {
 }
 
 
-/* Write all the test functions */
 
+/* Write all the test functions */
 void test_getchoice(void) {
   CU_ASSERT(1 == getchoice(1));
   CU_ASSERT(6 == getchoice(6));
