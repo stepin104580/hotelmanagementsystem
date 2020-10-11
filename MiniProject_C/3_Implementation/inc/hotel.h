@@ -9,11 +9,6 @@
 
 
 
-
-
-
-
-
 void login();
 void book();
 void cancel();
