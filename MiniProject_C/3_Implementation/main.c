@@ -1,7 +1,6 @@
 #include <hotel.h>
 
 #include<stdio.h>
-#include<conio.h>
 #include<ctype.h>
 #include<stdlib.h>
 #include<string.h>
@@ -30,7 +29,7 @@ int main(){     // MAIN FUNCTION
 		printf(" \n Enter 4 -> Exit");
 		printf("\n-----------------");
 
-               choice=getche();
+               scanf("%c",&choice);
 	       choice=toupper(choice);
 	       switch(choice)           // SWITCH STATEMENT
 		{
@@ -56,7 +55,7 @@ int main(){     // MAIN FUNCTION
 	    default:
 		 printf("Incorrect Input");
  		 printf("\n Press any key to continue");
-		 getch();
+		 
 
 		}
 	}
