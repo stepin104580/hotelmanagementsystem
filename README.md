@@ -1,4 +1,5 @@
-Hotel Management system
+
+## Hotel Management system
 
 The Hotel Management System aims to provide a customer view of the hotel. It is a simple reservation system that  helps the customers to reserve rooms, view the booking and cancel the bookings. 
 The development of the system contains the following activities, which try to automate the entire process of reserving rooms, reviewing the booking and cancellation of rooms. The key features of the project are as follows:
