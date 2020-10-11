@@ -1,20 +1,19 @@
 #include <hotel.h>
-
 #include<stdio.h>
 #include<ctype.h>
 #include<stdlib.h>
 #include<string.h>
 
 
-
-int main(){     // MAIN FUNCTION
+// MAIN FUNCTION
+int main(){     
 	
 
 	char choice;
         printf("welcome to hotel");
 
-
-	while (1)      // INFINITE LOOP
+        // INFINITE LOOP
+	while (1)      
 	{
         
 		
