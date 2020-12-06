@@ -21,7 +21,7 @@ The development of the system contains the following activities, which try to au
 * Static code analysis using cppcheck
 * Dynamic Code analysis using Valgrind
 
-
+![C/C++ CI](https://github.com/stepin104580/hotelmanagementsystem/workflows/C/C++%20CI/badge.svg)
 ![Unit testing](https://github.com/stepin104580/hotelmanagementsystem/workflows/Unit%20testing/badge.svg)
 ![cppcheck-action](https://github.com/stepin104580/hotelmanagementsystem/workflows/cppcheck-action/badge.svg)
 ![Valgrind](https://github.com/stepin104580/hotelmanagementsystem/workflows/Valgrind/badge.svg)
